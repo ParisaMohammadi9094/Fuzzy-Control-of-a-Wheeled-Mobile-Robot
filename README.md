@@ -1,1 +1,1 @@
-# Fuzzy Control of Wheeled Mobile Robots
+# Fuzzy Control of Wheeled a Mobile Robot
