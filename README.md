@@ -13,9 +13,10 @@ This MATLAB script simulates the control of a robot navigating through predefine
 -Select the desired path type and problem type to simulate.     
 -Observe the robot's trajectory and control behavior in the generated plots.    
 
-**Contents:**
+**Contents:**   
 -main.m: Main script for simulating robot control.    
 -ref_path.m: Function to calculate reference paths for trajectory tracking.    
 -fuzzy_controller.m: Function implementing fuzzy control for trajectory tracking.    
 -supervisor_control.m: Function implementing supervisor control for trajectory tracking.  
--total_control.m: Function to calculate total control input based on fuzzy and supervisor control outputs.
+-total_control.m: Function to calculate total control input based on fuzzy and supervisor control outputs.  
+-saturation.m: Function to limit the input within a specified range to prevent control signal saturation.
