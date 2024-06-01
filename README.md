@@ -20,3 +20,6 @@ This MATLAB script simulates the control of a robot navigating through predefine
 -supervisor_control.m: Function implementing supervisor control for trajectory tracking.  
 -total_control.m: Function to calculate total control input based on fuzzy and supervisor control outputs.  
 -saturation.m: Function to limit the input within a specified range to prevent control signal saturation.
+
+**License:**  
+This project is licensed under the MIT License.
