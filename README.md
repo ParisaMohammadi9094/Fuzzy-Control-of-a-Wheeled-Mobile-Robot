@@ -6,6 +6,9 @@
 
 This MATLAB script simulates the control of a robot navigating through predefined paths under various conditions.
 
+
+![Wheeled Mobile Robot](https://github.com/ParisaMohammadi9094/Fuzzy-Control-of-a-Wheeled-Mobile-Robot/assets/18152407/5677738d-3369-4f6c-b6fe-4e2c1fb8e1c1)
+
 ### Features
 
 - Simulates robot motion along circular and square paths.
